@@ -1,0 +1,36 @@
+.logoHolder{
+    margin-top: 100px;
+}
+.logo{
+  width: 25%;
+  height: 25%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.headingText{
+  text-align: center;
+  padding-top: 30px;
+
+}
+.headingLine1{
+  padding-top: 20px;
+  font-size: 45px;
+  font-weight: 450;
+}
+.headingLine2{
+  padding-top: 10px;
+  font-weight: 200;
+}
+.videoPlayer{
+  padding-top: 20px;
+  padding-bottom: 30px;
+  position: absolute;
+    width: 100%;
+    left: 0;
+}
+
+video{
+  width: 100%;
+  height: auto;
+}
